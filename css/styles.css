@@ -50,9 +50,9 @@
             left: 58px; 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485280160324-1 {
-            top: 92px; 
-            left: 66px; 
-            width: 324px; 
+            top: 74px; 
+            left: 11px; 
+            width: 433px; 
             min-height: 20px; 
         }
         }.silex-id-1485280976430-10 {
@@ -62,9 +62,9 @@
             left: 60px; 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485280976430-10 {
-            top: 130px; 
-            left: 24px; 
-            width: 408px; 
+            top: 94px; 
+            left: 34px; 
+            width: 387px; 
             min-height: 20px; 
         }
         }.silex-id-1485284818565-0 {
@@ -86,9 +86,77 @@
             left: 61px; 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485282812231-17 {
-            top: 146px; 
-            left: 25px; 
-            width: 405px; 
+            top: 114px; 
+            left: 56px; 
+            width: 343px; 
+            min-height: 20px; 
+        }
+        }.silex-id-1485294300276-13 {
+            min-height: 40px; 
+            width: 196px; 
+            top: 170px; 
+            left: 259px; 
+            border-width: 3px 3px 3px 3px ; 
+            border-style: dashed; 
+        }
+        .silex-id-1485281315476-13 {
+            min-height: 27px; 
+            width: 86px; 
+            top: 23px; 
+            left: 455px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485281315476-13 {
+            top: 173px; 
+            left: 17px; 
+            width: 422px; 
+            min-height: 27px; 
+        }
+        }.silex-id-1485280563600-6 {
+            min-height: 20px; 
+            width: 100px; 
+            top: 51px; 
+            left: 495px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485280563600-6 {
+            top: 163px; 
+            left: 52px; 
+            width: 352px; 
+            min-height: 20px; 
+        }
+        }.silex-id-1485281718288-15 {
+            min-height: 20px; 
+            width: 112px; 
+            top: 78px; 
+            left: 496px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485281718288-15 {
+            top: 183px; 
+            left: 72px; 
+            width: 311px; 
+            min-height: 20px; 
+        }
+        }.silex-id-1485280739908-8 {
+            min-height: 20px; 
+            width: 79px; 
+            top: 105px; 
+            left: 495px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485280739908-8 {
+            top: 204px; 
+            left: 95px; 
+            width: 266px; 
+            min-height: 20px; 
+        }
+        }.silex-id-1485281652941-14 {
+            min-height: 20px; 
+            width: 91px; 
+            top: 133px; 
+            left: 496px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485281652941-14 {
+            top: 224px; 
+            left: 117px; 
+            width: 222px; 
             min-height: 20px; 
         }
         }.silex-id-1485301596986-20 {
@@ -115,42 +183,6 @@
             top: 226px; 
             left: 41px; 
         }
-        .silex-id-1485281315476-13 {
-            min-height: 27px; 
-            width: 86px; 
-            top: 23px; 
-            left: 455px; 
-        }
-        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485281315476-13 {
-            top: 158px; 
-            left: 11px; 
-            width: 433px; 
-            min-height: 27px; 
-        }
-        }.silex-id-1485280739908-8 {
-            min-height: 20px; 
-            width: 79px; 
-            top: 105px; 
-            left: 495px; 
-        }
-        .silex-id-1485280563600-6 {
-            min-height: 20px; 
-            width: 100px; 
-            top: 51px; 
-            left: 495px; 
-        }
-        .silex-id-1485281652941-14 {
-            min-height: 20px; 
-            width: 91px; 
-            top: 133px; 
-            left: 496px; 
-        }
-        .silex-id-1485281718288-15 {
-            min-height: 20px; 
-            width: 112px; 
-            top: 78px; 
-            left: 496px; 
-        }
         .silex-id-1485302190722-22 {
             min-height: 79px; 
             width: 71px; 
@@ -169,14 +201,6 @@
             top: 44px; 
             left: 604px; 
         }
-        .silex-id-1485294300276-13 {
-            min-height: 40px; 
-            width: 201px; 
-            top: 168px; 
-            left: 261px; 
-            border-width: 3px 3px 3px 3px ; 
-            border-style: dashed; 
-        }
         .silex-id-1485296117386-17 {
             top: 340px; 
             left: 0px; 
@@ -191,7 +215,13 @@
             top: 9px; 
             left: 10px; 
         }
-        .silex-id-1485362766175-6 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485362689420-4 {
+            top: 4px; 
+            left: 11px; 
+            width: 433px; 
+            min-height: 27px; 
+        }
+        }.silex-id-1485362766175-6 {
             min-height: 20px; 
             width: 574px; 
             top: 42px; 
@@ -285,7 +315,13 @@
             top: 8px; 
             left: 11px; 
         }
-        .silex-id-1485363111881-9 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485362722593-5 {
+            top: 2px; 
+            left: 13px; 
+            width: 430px; 
+            min-height: 27px; 
+        }
+        }.silex-id-1485363111881-9 {
             min-height: 20px; 
             width: 428px; 
             top: 131px; 
