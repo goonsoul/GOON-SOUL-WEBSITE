@@ -227,7 +227,13 @@
             top: 42px; 
             left: 43px; 
         }
-        .silex-id-1485281291120-12 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485362766175-6 {
+            top: 38px; 
+            left: 73px; 
+            width: 310px; 
+            min-height: 40px; 
+        }
+        }.silex-id-1485281291120-12 {
             top: 424px; 
             left: 0px; 
             min-width: 700px; 
@@ -309,7 +315,13 @@
             min-height: 226px; 
             background-color: rgb(255, 255, 255); 
         }
-        .silex-id-1485362722593-5 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485362584121-0 {
+            top: 0px; 
+            left: 12px; 
+            width: 455px; 
+            min-height: 226px; 
+        }
+        }.silex-id-1485362722593-5 {
             min-height: 27px; 
             width: 95px; 
             top: 8px; 
@@ -321,7 +333,19 @@
             width: 430px; 
             min-height: 27px; 
         }
-        }.silex-id-1485363111881-9 {
+        }.silex-id-1485362830259-7 {
+            min-height: 40px; 
+            width: 521px; 
+            top: 42px; 
+            left: 46px; 
+        }
+        .silex-id-1485363015220-8 {
+            min-height: 21px; 
+            width: 559px; 
+            top: 97px; 
+            left: 46px; 
+        }
+        .silex-id-1485363111881-9 {
             min-height: 20px; 
             width: 428px; 
             top: 131px; 
@@ -331,18 +355,6 @@
             min-height: 20px; 
             width: 476px; 
             top: 162px; 
-            left: 46px; 
-        }
-        .silex-id-1485363015220-8 {
-            min-height: 21px; 
-            width: 559px; 
-            top: 97px; 
-            left: 46px; 
-        }
-        .silex-id-1485362830259-7 {
-            min-height: 40px; 
-            width: 521px; 
-            top: 42px; 
             left: 46px; 
         }
         .silex-id-1485363621576-11 {
