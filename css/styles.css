@@ -31,7 +31,13 @@
             top: 9px; 
             left: 8px; 
         }
-        .silex-id-1485283754156-22 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485287426744-0 {
+            top: 0px; 
+            left: 11px; 
+            width: 433px; 
+            min-height: 54px; 
+        }
+        }.silex-id-1485283754156-22 {
             min-height: 20px; 
             width: 215px; 
             top: 59px; 
