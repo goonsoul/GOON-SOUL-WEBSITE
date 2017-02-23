@@ -34,8 +34,8 @@
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1487708217106-1 {
             top: 0px; 
-            left: 103px; 
-            width: 250px; 
+            left: 0px; 
+            width: 240px; 
             min-height: 226px; 
         }
         }.silex-id-1485283754156-22 {
@@ -44,7 +44,13 @@
             top: 71px; 
             left: 109px; 
         }
-        .silex-id-1485280160324-1 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485283754156-22 {
+            top: 226px; 
+            left: 120px; 
+            width: 215px; 
+            min-height: 33px; 
+        }
+        }.silex-id-1485280160324-1 {
             min-height: 20px; 
             width: 328px; 
             top: 123px; 
@@ -189,7 +195,13 @@
             top: 130px; 
             left: 435px; 
         }
-        .silex-id-1485294300276-13 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1487707570869-0 {
+            top: 430px; 
+            left: 7px; 
+            width: 225px; 
+            min-height: 60px; 
+        }
+        }.silex-id-1485294300276-13 {
             min-height: 40px; 
             width: 196px; 
             top: 298px; 
@@ -197,7 +209,13 @@
             border-width: 3px 3px 3px 3px ; 
             border-style: dashed; 
         }
-        .silex-id-1487877719838-1 {
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1485294300276-13 {
+            top: 437px; 
+            left: 249px; 
+            width: 192px; 
+            min-height: 40px; 
+        }
+        }.silex-id-1487877719838-1 {
             min-height: 1728px; 
             width: 33px; 
             top: -71px; 
